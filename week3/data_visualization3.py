@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-"""
+
 df = pd.read_csv("data/housing_dataset.csv")
 
 fig = plt.figure(figsize=(10,7))
@@ -15,7 +15,7 @@ ax.set_zlabel("Fiyat")
 ax.set_title("3D Konut Fiyat Dağılımı")
 plt.show()
 
-"""
+
 
 
 """
